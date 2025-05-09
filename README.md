@@ -14,7 +14,7 @@ Toujours curieux, j’aime apprendre de nouvelles choses, relever des défis et 
 ⚡ Fun fact : J’ai toujours une idée de projet en tête — même à 3h du matin !<br/>
 
 
-# 💻 Tech Stack (Theme: Neon)
+# 💻 Tech Stack 
 
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
